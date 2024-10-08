@@ -8,7 +8,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm iIDa.
 
 - 🧑‍💻 I'm a frontend engineer.
-- 🌱 I’m currently learning Next.js,TaileindCSS, and UI-design!
+- 🌱 I’m currently learning Next.js, TaileindCSS and UI-design!
 - 📫 How to reach me: [Twitter - @meshiden_jp](https://twitter.com/meshiden_jp)
 <br>
 
