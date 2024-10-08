@@ -4,6 +4,7 @@
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm iIDa.</h1>
+<h3>Accessibility for All.</h3>
 
 - 🧑‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning Next.js, TaileindCSS and UI-design!
