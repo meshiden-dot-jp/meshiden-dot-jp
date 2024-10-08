@@ -13,8 +13,6 @@
 - 📫 How to reach me: [Twitter - @meshiden_jp](https://twitter.com/meshiden_jp)
 - 😄 Pronouns: ze/zir
 <br>
-> [!IMPORTANT]\
-> I just wanted to use this feature.
 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
