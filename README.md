@@ -1,5 +1,5 @@
 <!-- 1. GitHub usernameを変更 -->
-<div align="right">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=username" />
 </div>
 
